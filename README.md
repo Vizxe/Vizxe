@@ -31,9 +31,10 @@
 (In order of experience)
 ```
 JavaScript
+C++
+Java
 HTML, CSS, etc
 Mongo DB
-Java
 Python
 C#
 Lua
