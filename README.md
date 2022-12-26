@@ -22,7 +22,6 @@
 ```
 > Finish my yelpcamp project. (100%)
 > Create a portfolio website.
-> Learn C.
 > Learn C++. (75%)
 > Mastering data structures and algorithms in C/C++.
 > Implement learning in AI.
@@ -30,9 +29,9 @@
 ## Languages I know.
 (In order of experience)
 ```
-JavaScript
-C++
 Java
+C++
+JavaScript
 HTML, CSS, etc
 Mongo DB
 Python
